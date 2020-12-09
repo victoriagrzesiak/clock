@@ -1,0 +1,33 @@
+
+body{
+ position: absolute;
+ left: 200px;
+ top: 0px;
+ background-color:background: linear-gradient(125.37deg, #EDF0FF 18.86%, #ECF5F9 47.03%, #F7E9F5 79.9%);
+}
+
+#second{
+	position: absolute;
+	top: 300px;
+	left: 200px;
+	width: 400px;
+	z-index: 40;
+	
+}
+
+#minute{
+	position: absolute;
+	top: 240px;
+	left: 180px;
+	width: 400px;
+	
+	z-index: 3;
+}
+#hour{
+	position: absolute;
+	top: 170px;
+	left: 150px;
+	width: 400px;
+	z-index: 2;
+	
+}
